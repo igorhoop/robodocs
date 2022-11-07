@@ -1,9 +1,9 @@
 ---
-title: Design Draft
-author: Tao He
-date: 2022-02-06
-category: Jekyll
+title: Еще какая-то дизайн-страница
+author: Игорь Парандюк
+date: 2022-11-07
+category: Информация
 layout: post
 ---
 
-This is an draft page.
+ДИЗАЙН ПЭЙДЖ
