@@ -1,9 +1,10 @@
 ---
-title: Contact
-author: Tao He
-date: 2022-02-05
-category: Jekyll
+title: Контакты
+author: Игорь Парандюк
+date: 2022-11-07
+category: Информация
 layout: post
 ---
 
-This is an contact page.
+Ваши вопросы вы можете задавать по электронной почте:
+i.parandiuk@3l.ru
